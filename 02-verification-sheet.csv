@@ -1,0 +1,9 @@
+check,result,evidence_or_correction,reviewer,date
+Every item has a source reference,,,,
+Numbers match the approved source,,,,
+Actors and owners are supported by the source,,,,
+Proposals remain distinct from decisions,,,,
+Conflicts remain visible,,,,
+Unknowns are recorded as questions,,,,
+Sensitive details are handled according to policy,,,,
+The reviewed output meets the task acceptance criteria,,,,

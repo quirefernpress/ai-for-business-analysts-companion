@@ -1,0 +1,6 @@
+region,target_requests,completed_requests,open_requests_week_end
+North,120,132,18
+South,100,84,31
+East,90,99,12
+West,110,105,20
+Total,420,420,81

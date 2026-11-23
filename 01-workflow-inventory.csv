@@ -1,0 +1,5 @@
+task_name,frequency,source_material,output,user_or_approver,current_draft_minutes,current_review_minutes,common_defects,information_classification,first_acceptance_criterion,second_acceptance_criterion,stop_condition
+Example: extract meeting decisions,weekly,approved synthetic meeting notes,decision and action log,project manager,20,15,assumed owners and missing qualifiers,internal,Every decision includes a source reference,Unclear ownership remains unresolved,Stop if the notes contain information not approved for the selected tool
+Your task 1,,,,,,,,,,,
+Your task 2,,,,,,,,,,,
+Your task 3,,,,,,,,,,,
